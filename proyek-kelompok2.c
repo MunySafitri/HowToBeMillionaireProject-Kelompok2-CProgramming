@@ -197,7 +197,7 @@ int main(int arguments, char *argument[]){
                     "1. Hadafee Mudo 2008107010101\n"               //untuk user di pilihan Credit
                     "2. Muny Safitri 2008107010064\n"
                     "3. Arif Munandar 2008107010016\n"
-                    "4. Rania Shafia Khuzai 200810t010051\n");
+                    "4. Rania Shafia Khuzai 2008107010051\n");
                 getch();
                 goto mainhome;
             }else if (choice == 'Q')                                  //pilihan keluar program
